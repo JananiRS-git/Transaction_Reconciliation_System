@@ -1,0 +1,2 @@
+settlement_id,lifecycle_id,account_id,merchant_name,transaction_date,settlement_date,settlement_amount,settlement_type,currency
+SET021,LC010,ACC132,Netflix,2025-08-07,2025-08-16,10.00,DEBIT,USD

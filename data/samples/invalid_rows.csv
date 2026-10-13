@@ -1,0 +1,8 @@
+settlement_id,lifecycle_id,account_id,merchant_name,transaction_date,settlement_date,settlement_amount,settlement_type,currency
+SET101,LC010,ACC132,Netflix,2025-08-07,2025-08-16,15.99,DEBIT,USD
+SET102,LC001,ACC123,Amazon.com,2025-08-14,2025-08-15,-5.00,DEBIT,USD
+SET103,LC001,ACC123,Amazon.com,2025-08-14,15/08/2025,5.00,DEBIT,USD
+SET104,LC001,ACC123,Amazon.com,2025-08-14,2025-08-15,5.00,REFUND,USD
+SET105,LC001,ACC123,Amazon.com,2025-08-14,2025-08-15,5.00,DEBIT,EUR
+SET106,,,,,2025-08-15,5.00,DEBIT,USD
+SET107,LC001,ACC123,Amazon.com,2025-08-14,2025-08-15,abc,DEBIT,USD
