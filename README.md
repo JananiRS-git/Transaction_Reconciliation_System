@@ -192,14 +192,3 @@ Settlement timeline visualisation, CSV export of the transaction list, search an
 
 ---
 
-## Pushing to GitHub
-
-```bash
-cd transaction-reconciliation
-git init
-git add .
-git commit -m "Transaction reconciliation system"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
-git push -u origin main
-```
